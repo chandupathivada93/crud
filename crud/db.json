@@ -1,0 +1,23 @@
+{
+  "productList": [
+    {
+      "productName": "azsa",
+      "category": "Electronics",
+      "date": "2022-07-04T18:30:00.000Z",
+      "freshness": "Brand New",
+      "price": 1,
+      "Comment": "SA",
+      "id": 1
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
